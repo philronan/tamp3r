@@ -1,4 +1,4 @@
-# <i>sta</i><b>mp3</b><i>r</i>
+# <i>ta</i><b>mp3</b><i>r</i>
 
 ### What is it?
 
@@ -16,14 +16,14 @@ The code has no dependencies and should compile successfully on any Linux or OS 
 
 ### Running
 
-Once the code has compiled, type in `./stamp3r -h` for instructions. The basic usage is as follows:
+Once the code has compiled, type in `./tamp3r -h` for instructions. The basic usage is as follows:
 
     # show the data embedded in audio.mp3
-    ./stamp3r -p audio.mp3
+    ./tamp3r -p audio.mp3
 
     # load input.mp3, write "Hello world" to the private data, and
     # save the marked MP3 data as output.mp3
-    ./stamp3r -s "Hello world" -o output.mp3 input.mp3
+    ./tamp3r -s "Hello world" -o output.mp3 input.mp3
 
 ### Todo
 
